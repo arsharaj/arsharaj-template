@@ -58,7 +58,7 @@ Run the following command to execute the test suite : `command to run tests`
 
 ### Contributing
 
-We welcome contributions! Please read [contributing.md](contributing.md) for guidelines.
+We welcome contributions! Please read [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines.
 
 ### Versioning
 
@@ -66,4 +66,4 @@ This project uses [Semantic Versioning](https://semver.org/).
 
 ### License
 
-[License Identifier](license)
+[License Identifier](LICENSE)
